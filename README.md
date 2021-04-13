@@ -1,6 +1,8 @@
 # ENEL610
 AGE AND GENDER DETECTION ON UNBALANCED DATASET
 To run the code successfully, 
+
+
 1) Download Anaconda. We recommend downloading Anaconda’s latest Python 3 version (currently Python 3.5).
 Install the version of Anaconda which you downloaded, following the instructions on the download page.
 You have installed Jupyter Notebook. To run the notebook: start the notebook server from the command line and type in “ jupyter notebook”. You should see the notebook open in your browser.
